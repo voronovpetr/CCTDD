@@ -6,6 +6,8 @@ React and TypeScript.
 **NOTE:** This scaffolded project is based on
 [ViteJS React TypeScript Template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts).
 
+**CCTDD book:** https://muratkerem.gitbook.io/cctdd/ch01-buttonfooter 
+
 ## Requirements
 
 - Node `v16.13.0`
